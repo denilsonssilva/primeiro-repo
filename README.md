@@ -5,3 +5,11 @@ Repositorios para armazenar resumos sobre Git e Github do curso de versionamento
 ## ✔ Documentação
 - [Documentação git](https://git-scm.com/doc)
 - [Documentação Github](https://docs.github.com)
+
+## Git e Github é muito interessante
+## Com essa ferramenta de edição online fica tudo mais facil de editar nossos commits.
+
+|Aulas | Material|
+|-------|--------|
+|01     | README.md|
+
